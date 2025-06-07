@@ -132,7 +132,7 @@ Contributions are welcome!
 - Open a Pull Request
 
 
-### 🙏 Thank You
+### 🙏 Thank You 🙏
 
 ⭐ Thank you for visiting the repository! If you found it helpful, consider starring it! ⭐
 
